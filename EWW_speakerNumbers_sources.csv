@@ -1,0 +1,22 @@
+ID,name,non_natives,non_natives_well,non_natives_notwell,sources,sources_copyright
+3,Irish English,786703,690086,96617,"Central Statistics Office, Government of Ireland, Census of Population 2022, Summary Results Figure 4.11 “Population usually resident and present in the State who speak a language other than English or Irish at home by citizenship and ability to speak English”, total number of residents who speak English very well (430,195), well (194,960), and not well (80342) as proxy for non-native speakers 2022, https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/migrationanddiversity/ (accessed 10.08.2023), Northern Ireland Statistics and Research Agency, Census 2021, Census 2021 main statistics language tables, Table MS-B14: Proficiency in English, https://www.nisra.gov.uk/ (accessed 28.01.2025)
+","Central Statistics Office: “The statistics and other information provided on this site are accessible free of charge and licensed under Creative Commons Attribution (version 4.0 cc-by)”. Northern Ireland Statistics and Research Agency: Copyright: Licence https://www.nisra.gov.uk/crown-copyright 
+
+"
+5,Welsh English,96856,78362,18494,"Office for National Statistics, Dataset of 2021 Census estimates that classify all usual residents in England and Wales by main language (detailed) and proficiency in English language by countries. The estimates are as at census day, 21 March 2021, https://www.ons.gov.uk/datasets/create (accessed 25.11.2024)
+","Open Government Licence for public sector information, 
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+"
+14,Colloquial American English,51369809,42352097,9017712,"United States Census Bureau, Language Use in the United States 2019: Community Survey Report, Table 2 Speak a language other than English at home, https://www.census.gov/library/publications/2022/acs/acs-50.html (accessed 26.11.2024)
+","no copyright statement but detailed instructions on how to download, use, and share the materials, https://www.census.gov/data/what-is-data-census-gov/guidance-for-data-users/how-to-materials-for-using-data-census-gov.html,  as well as information on how to cite the materials, https://www.census.gov/about/policies/citation.html.
+"
+47,Ugandan English,18356672,5516371,12840301,"Uganda Bureau of Statistics, 2024, National Population And Housing Census 2024, Final Report - Volume 1 (Main), Kampala, Uganda. 
+Figure 4.6 “Percentage Distribution of Persons Aged 10 and above by Highest level of Education attainment” and 
+“Table 2.3A: Total Population by five-year Age Group and Sex”,  https://www.ubos.org/nphc-2024-census-page/ (accessed 15.01.2024)","“The contents from www.ubos.org may freely be reproduced, provided that Uganda Bureau of Statistics is cited as source. The source referenced must include the link to point in question on ubos.org where the figures can be viewed in their full context by the user.”
+"
+59,Australian English,3945100,3398888,546212,"Australian Bureau of Statistics,  Census 2021,  Cultural diversity data summary,  Table 6 Proficiency in spoken English (a) by year of arrival in Australia, https://www.abs.gov.au/census (accessed  09.06.2023)","Creative Commons Attribution 4.0 International licence.
+"
+61,Aboriginal English,73437,67356,6081,"Australian Bureau of Statistics,  Language Statistics for Aboriginal and Torres Strait Islander Peoples,  Graph 6 Proficiency in English,  https://www.abs.gov.au/statistics/people/aboriginal-and-torres-strait-islander-peoples/language-statistics-aboriginal-and-torres-strait-islander-peoples/2021(accessed 29.01.2025)","Creative Commons Attribution 4.0 International licence.
+"
+72,Falkland Islands English,552,511,41,"Falkland Islands Government, Directorate of Policy, Economy & Corporate Services, 2021 Census, Table 5b “Proficiency of spoken English as non-primary language”, https://www.falklands.gov.fk/policy/2021-census/census (accessed 15.01.2025)
+",Terms of use not known.
