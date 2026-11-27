@@ -2,7 +2,9 @@
 
 #### Supplementary materials for: How to obtain speaker numbers for English varieties around the world: Theoretical concepts, challenges and estimations
 
-[![DOI](https://zenodo.org/badge/github/991231039.svg)](https://doi.org/10.5281/zenodo.24591527)
+### DOI
+
+<img width="193" height="20" alt="image" src="https://github.com/user-attachments/assets/5df863c8-11a8-433c-94ac-2a0a607fb930" />
 
 ### Description
 
