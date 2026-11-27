@@ -2,6 +2,8 @@
 
 #### Supplementary materials for: How to obtain speaker numbers for English varieties around the world: Theoretical concepts, challenges and estimations
 
+[![DOI](https://zenodo.org/badge/github/991231039.svg)](https://doi.org/10.5281/zenodo.24591527)
+
 ### Description
 
 This repository comprises the sources for various operationalisations of non-native speaker counts described in
@@ -27,4 +29,4 @@ This work is licensed under
 
 #### Cite as
 
-
+Kat Ehret. (2026). Morphosyntactic-Variation-in-Englishes/EWW_speakerNumbers: EWW_speakerNumbers (Version v1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24591528
