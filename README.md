@@ -6,7 +6,7 @@
 
 This repository comprises the sources for various operationalisations of non-native speaker counts described in
 
-* Ehret, Katharina. 2025. "How to obtain speaker numbers for English varieties around the world: Theoretical concepts, challenges and estimations". To appear in *English World-Wide*.
+* Ehret, Katharina. 2025. "How to obtain speaker numbers for English varieties around the world: Theoretical concepts, challenges and estimations". *English World-Wide* 46 (3): 299 -- 322. https://doi.org/10.1075/eww.25008.ehr
 
 ### Copyright and sources
 
@@ -27,5 +27,4 @@ This work is licensed under
 
 #### Cite as
 
-Ehret, Katharina. 2025. Supplementary materials for: How to obtain speaker numbers for English varieties around the world: Theoretical concepts, challenges and estimations. Github.
 
